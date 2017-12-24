@@ -1,5 +1,4 @@
 # ScholarJS
-==========
 
 ScholarJS is a JavaScript module that implements a querier and parser for Google Scholar's output. Its classes can be used independently, but it can also be invoked as a command-line tool.
 
