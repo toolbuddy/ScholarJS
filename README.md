@@ -27,5 +27,9 @@ Try `node main.js --help` for all available options. Note, the command line argu
 
 * [Yung-Sheng Lu](https://yungshenglu.github.io/)
 
+## Member
+
+* [Kevin Cyu](https://kevinbird61.github.io/Intro/)
+
 ---
 ScholarJS is using the standard [BSD license](http://opensource.org/licenses/BSD-2-Clause).
