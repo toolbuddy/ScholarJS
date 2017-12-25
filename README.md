@@ -26,6 +26,3 @@ Try `node main.js --help` for all available options. Note, the command line argu
 ## Author
 
 * [Yung-Sheng Lu](https://yungshenglu.github.io/)
-
----
-ScholarJS is using the standard [BSD license](http://opensource.org/licenses/BSD-2-Clause).
