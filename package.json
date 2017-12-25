@@ -4,7 +4,7 @@
   "description": "A parser for Google Scholar, written in JavaScript.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yungshenglu/ScholarJS"
+    "url": "https://github.com/toolbuddy/ScholarJS"
   },
   "keywords": [
     "ScholarJS"
@@ -23,5 +23,8 @@
     "express": "^4.16.2",
     "jssoup": "0.0.6",
     "request": "^2.83.0"
+  },
+  "bin": {
+    "scholar": "main.js"
   }
 }
